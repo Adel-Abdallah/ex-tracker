@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ex-tracker/static/css/main.ba037b4b.chunk.css",
+    "main.js": "/ex-tracker/static/js/main.4f6c918c.chunk.js",
+    "main.js.map": "/ex-tracker/static/js/main.4f6c918c.chunk.js.map",
+    "runtime-main.js": "/ex-tracker/static/js/runtime-main.0129fb58.js",
+    "runtime-main.js.map": "/ex-tracker/static/js/runtime-main.0129fb58.js.map",
+    "static/js/2.d89c8a62.chunk.js": "/ex-tracker/static/js/2.d89c8a62.chunk.js",
+    "static/js/2.d89c8a62.chunk.js.map": "/ex-tracker/static/js/2.d89c8a62.chunk.js.map",
+    "index.html": "/ex-tracker/index.html",
+    "precache-manifest.8c59e73cef4e34de8d6ae6af496ac939.js": "/ex-tracker/precache-manifest.8c59e73cef4e34de8d6ae6af496ac939.js",
+    "service-worker.js": "/ex-tracker/service-worker.js",
+    "static/css/main.ba037b4b.chunk.css.map": "/ex-tracker/static/css/main.ba037b4b.chunk.css.map",
+    "static/js/2.d89c8a62.chunk.js.LICENSE.txt": "/ex-tracker/static/js/2.d89c8a62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0129fb58.js",
+    "static/js/2.d89c8a62.chunk.js",
+    "static/css/main.ba037b4b.chunk.css",
+    "static/js/main.4f6c918c.chunk.js"
+  ]
+}
